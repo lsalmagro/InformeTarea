@@ -37,8 +37,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La solución deb estar en esta sección, no como un archivo anexo.
-
-DEEL.jpg
+![image](https://user-images.githubusercontent.com/105899463/169708650-9140e9fb-94a8-4c39-9591-fce569f7d0e5.png)
 
 4. VIDEO
 
@@ -57,3 +56,5 @@ Emplear normas APA.
 RUBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+![image](https://user-images.githubusercontent.com/105899463/169708692-82568b25-8151-4f1a-9d3b-b1502ef49e80.png)
+
