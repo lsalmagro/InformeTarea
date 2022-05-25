@@ -44,6 +44,7 @@ FLOYD, THOMAS L.
 Principios de circuitos eléctricos. Octava edición
 PEARSON EDUCACIÓN, México, 2007
 
-RUBRICA
+
+
 ![image](https://user-images.githubusercontent.com/105899463/170207308-dfa707d4-01f2-4ba2-a2dd-0b230fe898de.png)
 
